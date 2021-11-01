@@ -1,0 +1,13 @@
+Need TWRP 3.4.0 or higher!
+
+2. Go to TWRP and do wipe data-yes
+
+3. Make Wipe data, cache, cache-Dalvik in advanced wipe
+
+4. Flash the file then flash gapps
+
+5. If you want flash magisk flash it
+
+DO NOT USE EUREKA KERNEL (you can try it on your own risk)
+
+it is very broken
